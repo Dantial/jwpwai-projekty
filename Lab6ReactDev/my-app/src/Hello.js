@@ -1,9 +1,9 @@
-import Hello from './Hello';
-function App() {
+import React from 'react';
+function Hello() {
  return (
  <div>
- <Hello />
+ <p>Hello World!</p>
  </div>
  );
 }
-export default App;
+export default Hello;
